@@ -2,14 +2,14 @@
 
 💼 Data Engineer at Volmatica  
 🎓 Computer Engineering Student at UET Taxila  
-🚀 Passionate about building scalable data pipelines and real-time analytics systems.
+🚀 Passionate about building scalable data system and real-time analytics systems.
 
 ---
 
 ## 🧠 About Me
 
 - 🏗️ Working on **data pipelines, batch & real-time data processing**
-- ⚙️ Experienced with **Azure, Databricks, Python, SQL, and ETL pipelines**
+- ⚙️ Experienced with **Azure, Databricks, Python, SQL**
 - 🏅 **Datacamp Certified Data Engineer Associate**
 
 ---
