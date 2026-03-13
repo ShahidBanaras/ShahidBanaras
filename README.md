@@ -9,8 +9,7 @@
 ## 🧠 About Me
 
 - 🏗️ Working on **data pipelines, batch & real-time data processing**
-- ⚙️ Experienced with **Spark, Databricks, SQL, and ETL pipelines**
-- ☁️ Learning **Cloud Data Platforms (Azure) and workflow orchestration**
+- ⚙️ Experienced with **Azure, Databricks, Python, SQL, and ETL pipelines**
 - 🏅 **Datacamp Certified Data Engineer Associate**
 
 ---
@@ -22,16 +21,17 @@
 - SQL
 
 **Data Engineering**
-- Apache Spark
 - Databricks
+- Microsoft Azure
+- Apache Spark
 - Batch & Streaming Pipelines
 - ETL / ELT
 
 **Tools & Platforms**
-- Azure Event Hub
+- Docker
 - Apache Airflow
 - PostgreSQL
-- Docker
+- MySQL
 - Git & GitHub
 
 ---
@@ -59,7 +59,6 @@ Event Hub → Databricks Streaming → Processed Tables → Analytics Dashboard
 
 ## 📚 Currently Learning
 
-- Cloud Data Engineering (**Azure**)
 - Workflow Orchestration (**Apache Airflow**)
 - Scalable Data Systems
 
